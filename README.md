@@ -1,2 +1,0 @@
-# sunit-repo
- Az-practice
